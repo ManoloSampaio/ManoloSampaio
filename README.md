@@ -1,5 +1,5 @@
 <h1 align="center">Oi, wellcome to my github profile</h1>
-<h3 align="center">My name is Emmanuel, I'm a brazilian 🇧🇷 student.</h3>
+<h2 align="center">My name is Emmanuel, I'm a brazilian student (🇧🇷 /🤓).</h2>
 
 
 
@@ -21,5 +21,5 @@
     - Deep neural network models for emotion recognition. 
   - Network science
     - Community detection.
-  - Control Theory
+  - Control theory
     - Structural theory.
