@@ -1,5 +1,5 @@
 <h1 align="center">Oi, wellcome to my github profile</h1>
-<h3 align="center">My name is Emmanuel, I'm a brazilian 🇧🇷 researcher.</h3>
+<h3 align="center">My name is Emmanuel, I'm a brazilian 🇧🇷 student.</h3>
 
 
 
@@ -19,6 +19,7 @@
   - Deep learning
     - Deep neural network models for image and video classification.
     - Deep neural network models for emotion recognition. 
-  - Network science:
-    - Structural theory
-    - Community detection
+  - Network science
+    - Community detection.
+  - Control Theory
+    - Structural theory.
