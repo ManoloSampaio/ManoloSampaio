@@ -15,7 +15,7 @@
         - 📍 Nantes, France :fr: 
         -  🏫 Centrale de Nantes 
      
-## :eyes: Areas of Interest
+## :eyes: What I like to study:
   - Deep learning
     - Deep neural network models for image and video classification.
     - Deep neural network models for emotion recognition. 
