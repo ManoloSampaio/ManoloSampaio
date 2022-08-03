@@ -1,5 +1,5 @@
 <h1 align="center">Oi, wellcome to my github profile</h1>
-<h2 align="center">My name is Emmanuel, I'm a brazilian student (🇧🇷 /🤓).</h2>
+<h2 align="center">My name is Emmanuel, I'm a Brazilian student (🇧🇷 /🤓).</h2>
 
 
 
