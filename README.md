@@ -8,7 +8,7 @@
        -  📍 Fortaleza, Brazil 🇧🇷 
        -  🏫 Universidade Federal do Ceará
   
-  -  Master's Degree in Engineering
+  -  Master's Degree in Signal Processing
         -  :calendar: 2021-2023
         - 📍 Nantes, France :fr: 
         -  🏫 Centrale de Nantes  
