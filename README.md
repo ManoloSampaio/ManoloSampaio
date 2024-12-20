@@ -4,11 +4,11 @@
 
  ## 🎓 Academical education
   -  Computer Engineering
-       -  :calendar: 2018-2023 
+       -  :calendar: 2018-2024
        -  📍 Fortaleza, Brazil 🇧🇷 
        -  🏫 Universidade Federal do Ceará
   
-  -  Master's Degree in Signal Processing
-        -  :calendar: 2021-2023
+  -  Master's Degree in Engineering
+        -  :calendar: 2021-2024
         - 📍 Nantes, France :fr: 
-        -  🏫 Centrale de Nantes  
+        - 🏫 Centrale de Nantes  
